@@ -2,7 +2,7 @@
 
 Bu doküman, iş zekası süreçlerinden başlayarak Power BI üzerinde veri modelleme, görselleştirme teknikleri ve temel analitik kavramları içeren kapsamlı bir eğitim rehberini barındırmaktadır. 
 
-📖 İçindekiler
+ İçindekiler
 
 İş Zekası (BI) Giriş: Temel kavramlar, araçlar ve şirketlere kattığı değerler. 
 
@@ -26,7 +26,7 @@ Görselleştirme ve Analiz: Filtreleme türleri, görselleştirme teknikleri ve 
 Tasarım Prensipleri: UI/UX farkları ve Wireframe kavramı. 
 
 
-🛠️ Teknik Özet
+ Teknik Özet
 1. Veri Modelleme ve Mimari
 
 Tablo Yapıları: Ölçülebilir ve sayısal verileri tutan Fact tabloları ile bu verilere anlam kazandıran kategorik Dimension tabloları arasındaki ilişkiler. 
@@ -69,7 +69,7 @@ Haritalar: ArcGIS, Azure ve Şekil haritaları ile coğrafi veri noktalarının 
 İstatistiki Analiz: "80/20 kuralı" odaklı Pareto Analizi ve R programlama dili entegrasyonu ile özel görselleştirme yetenekleri. 
 
 
-🎨 Tasarım ve Kullanıcı Deneyimi
+ Tasarım ve Kullanıcı Deneyimi
 
 UX (Kullanıcı Deneyimi): Kullanıcının ürünle olan etkileşim memnuniyeti, erişilebilirlik ve kullanım kolaylığı odağı. 
 
